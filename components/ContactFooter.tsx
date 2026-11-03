@@ -36,10 +36,10 @@ export default function ContactFooter() {
         <div className="mb-10 p-6 rounded-2xl bg-slate-800/80 border border-slate-700 text-center sm:text-left flex flex-col sm:flex-row items-center justify-between gap-5">
           <div>
             <span className="text-xs font-bold text-teal-400 uppercase tracking-wider">
-              Komitmen MagangHub 2026
+              Komitmen Saya 2026
             </span>
             <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-              Siap Berkontribusi pada Posisi Pranata Komputer
+              Siap Berkontribusi Yang Terbaik
             </h3>
             <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-xl">
               Menerapkan pengetahuan akademik, kemampuan pengolahan data, dan

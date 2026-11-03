@@ -14,7 +14,7 @@ export default function Hero() {
             {/* Status Badge */}
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-teal-100/70 border border-teal-200 text-teal-800 text-xs sm:text-sm font-semibold mb-5">
               <span className="flex h-2 w-2 rounded-full bg-emerald-500 animate-pulse" />
-              <span>Pranata Komputer</span>
+              <span>Sarjana Komputer</span>
             </div>
 
             {/* Nama & Gelar */}
