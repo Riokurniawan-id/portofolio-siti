@@ -36,7 +36,7 @@ export default function Navbar() {
                 SITI NURHASANAH
               </span>
               <span className="text-xs text-slate-500 font-medium">
-                S.Kom. • Pranata Komputer
+                S.Kom. • Sarjana Komputer
               </span>
             </div>
           </a>
