@@ -1,0 +1,152 @@
+PORTOFOLIO PROFESIONAL 2026
+
+SITI NURHASANAH
+
+Fresh Graduate S1 Teknik Informatika | Calon Peserta MagangHub – Pranata Komputer
+
+INFORMATION TECHNOLOGY | DATA PROCESSING | WEB DEVELOPMENT
+
+Mendukung pengelolaan informasi digital, pengembangan sistem berbasis website, pengolahan data, serta dokumentasi untuk menunjang efektivitas pekerjaan organisasi.
+
+---
+
+1. PROFIL PROFESIONAL
+
+Saya merupakan lulusan S1 Teknik Informatika Institut Informatika dan Bisnis Darmajaya dengan IPK 3,81/4,00 dan predikat Cumlaude. Memiliki minat dan kompetensi dalam pengembangan website, pengolahan data, pengelolaan informasi digital, serta pemanfaatan teknologi.
+
+Memiliki pengalaman mengembangkan sistem informasi berbasis website, mendukung digitalisasi UMKM, dan melakukan pencatatan administrasi persediaan. Terbiasa bekerja secara terstruktur, mengelola informasi, menyusun dokumentasi, serta memeriksa data dengan teliti.
+
+Pencapaian Akademik
+
+- IPK: 3,81/4,00
+- Predikat: Cumlaude
+- Masa studi: 2022–2026
+- Gelar: Sarjana Komputer (S.Kom.)
+
+2. PENDIDIKAN
+
+S1 Teknik Informatika
+Institut Informatika dan Bisnis Darmajaya, Bandar Lampung
+September 2022 – Mei 2026
+
+Kompetensi akademik yang relevan:
+
+- Pengembangan sistem dan aplikasi berbasis website.
+- Pengolahan data dan penerapan algoritma.
+- Analisis kebutuhan sistem dan pemecahan masalah.
+- Penyusunan dokumentasi proyek dan pemanfaatan teknologi digital.
+
+3. KEAHLIAN DAN KOMPETENSI
+
+Pengembangan Website
+Memahami proses pengembangan website, penyusunan fitur, dan implementasi sistem sesuai kebutuhan pengguna.
+
+Pengolahan Data & Data Science
+Memiliki pengalaman mengumpulkan, membersihkan, mengolah, menganalisis, dan memvisualisasikan data menggunakan Python.
+
+Artificial Intelligence
+Memanfaatkan tools AI seperti ChatGPT untuk membantu pencarian ide, memahami materi, dan mendukung penyelesaian pekerjaan dengan tetap melakukan pemeriksaan hasil.
+
+Administrasi Digital
+Mampu melakukan pencatatan informasi, pengelolaan dokumen, pemeriksaan data, serta penyusunan dokumentasi dan laporan.
+
+Aplikasi Perkantoran
+
+- Microsoft Word dan PowerPoint.
+- Microsoft Excel tingkat dasar: SUM, AVERAGE, COUNT, MIN, dan MAX.
+
+Kemampuan Pendukung
+Teliti, komunikatif, disiplin, terorganisasi, mampu bekerja sama dalam tim, adaptif, dan bertanggung jawab.
+
+4. PROYEK UNGGULAN
+
+Sistem Prediksi Waktu Tanam Padi Menggunakan Algoritma C4.5 Berbasis Website
+
+Peran: Pengembang proyek tugas akhir
+Lokasi penelitian: Rulung Sari, Natar, Lampung Selatan.
+
+Deskripsi Proyek
+
+Mengembangkan sistem informasi berbasis website untuk membantu memprediksi waktu tanam padi berdasarkan data cuaca dan historis panen. Sistem dirancang untuk mendukung pengelolaan data oleh admin/BPP serta menyediakan fitur simulasi prediksi bagi petani.
+
+Kontribusi dan Implementasi
+
+- Mengidentifikasi kebutuhan dan merancang alur sistem.
+- Mengolah data curah hujan, suhu, kelembapan, dan historis panen.
+- Menerapkan algoritma C4.5 untuk klasifikasi prediksi waktu tanam.
+- Mengembangkan fitur pengelolaan data dan simulasi prediksi berbasis website.
+- Menerapkan enkripsi AES pada data yang diunggah.
+- Menampilkan hasil prediksi dalam bentuk informasi bulan/waktu tanam.
+
+Alur Sistem: Data Cuaca & Historis Panen → Pengolahan Data → Algoritma C4.5 → Hasil Prediksi.
+
+PENGAKUAN KARYA
+
+Program komputer ini telah memperoleh Surat Pencatatan Ciptaan (HKI) dari Kementerian Hukum Republik Indonesia sebagai karya program komputer yang tercatat secara resmi.
+
+5. PENGALAMAN PROYEK DAN KERJA
+
+A. Proyek PKPM – Digitalisasi UMKM
+
+UMKM Emping Semoga Jaya
+Desa Buah Berak, Kalianda, Lampung Selatan.
+
+Kontribusi:
+
+- Mendukung pembuatan website profil dan informasi UMKM.
+- Membantu penyusunan katalog produk digital.
+- Mendukung pemanfaatan WhatsApp Business dan marketplace.
+- Berpartisipasi dalam pendampingan digitalisasi dan kebutuhan administrasi UMKM.
+
+Hasil: Mendukung tersedianya media informasi digital untuk memperkenalkan usaha dan produk UMKM.
+
+B. Pengalaman Kerja – Staff Gudang
+
+Durasi: 1 Tahun 5 Bulan
+
+- Melakukan pengecekan dan pencatatan stok secara manual sekitar 3 kali seminggu pada kurang lebih 15 jenis produk.
+- Membantu penerimaan, penyimpanan, dan pengeluaran barang.
+- Memperbarui catatan persediaan serta memeriksa kesesuaian informasi barang.
+- Menjaga kerapian pencatatan dan mendukung kelancaran operasional.
+
+C. Pengalaman Organisasi
+
+Himpunan Mahasiswa Teknik Informatika – Anggota IPTEK
+
+Berpartisipasi dalam kegiatan organisasi, bekerja sama dalam tim, serta mendukung komunikasi dan pelaksanaan kegiatan.
+
+6. SERTIFIKASI DAN SERTIFIKAT
+
+1. Junior Web Developer
+Penerbit: LSP BPPTIK
+Sertifikasi kompetensi di bidang pengembangan website, sebagai bukti penguasaan kompetensi dasar pengembangan aplikasi web.
+
+2. Associate Data Scientist
+Penerbit: LSP IIB Darmajaya
+Sertifikasi kompetensi di bidang Data Science, mencakup pengumpulan dan pembersihan data, analisis eksploratif, visualisasi, serta pengembangan dan evaluasi model.
+
+3. Darmajaya English Proficiency Test
+Penerbit: Institut Informatika dan Bisnis Darmajaya
+Memperoleh skor keseluruhan 470 melalui pengujian Listening, Structure & Written Expression, dan Reading.
+
+4. Sertifikat Hak Kekayaan Intelektual (HKI)
+Penerbit: Kementerian Hukum Republik Indonesia
+Jenis ciptaan: Program Komputer.
+
+Judul: Sistem Prediksi Waktu Tanam Padi Menggunakan Algoritma C4.5 Berbasis Website.
+
+- Nomor pencatatan: 001220064
+- Nomor permohonan: EC002026059119
+- Tanggal permohonan: 5 Mei 2026
+
+Sertifikat ini merupakan Surat Pencatatan Ciptaan atas program komputer yang dikembangkan sebagai proyek tugas akhir. Pencatatan tersebut menjadi bukti administratif bahwa karya perangkat lunak telah tercatat secara resmi.
+
+Catatan: HKI mencantumkan lebih dari satu pencipta dan pemegang hak cipta. Karya ini merupakan pencatatan ciptaan bersama.
+
+---
+
+7. PENUTUP
+
+Saya memiliki ketertarikan untuk mengembangkan kemampuan di bidang teknologi informasi, khususnya pengelolaan data, pengembangan sistem, administrasi digital, dan pengelolaan informasi.
+
+Melalui kesempatan MagangHub pada posisi Pranata Komputer, saya berharap dapat menerapkan pengetahuan akademik, mengembangkan keterampilan teknis, serta memberikan kontribusi dalam mendukung pengelolaan teknologi informasi dan pelayanan organisasi.
