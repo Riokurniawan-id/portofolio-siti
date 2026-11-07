@@ -247,10 +247,12 @@ export const portfolioData = {
       title: "Junior Web Developer (VSGA)",
       issuer: "BPPTIK Cikarang – Kementerian Komunikasi dan Digital",
       category: "Pelatihan & Pengembangan",
-      details: "Program: Digital Talent Scholarship 2025 | Durasi: 24 Jam Pelatihan",
+      details:
+        "Program: Digital Talent Scholarship 2025 | Durasi: 24 Jam Pelatihan",
       description:
         "Telah menyelesaikan pelatihan Junior Web Developer yang mencakup implementasi User Interface, pemrograman berbasis teks, grafik dan multimedia, pemrograman terstruktur, pengelolaan fungsi dan file, serta penerapan coding guidelines dan best practices dalam pengembangan website.",
       verified: true,
+      link: "https://drive.google.com/file/d/1zA60OUWUB8uuiQECDdNdWyavvlc1O4fY/view?usp=drive_link",
     },
     {
       title: "Junior Web Development",
