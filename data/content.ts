@@ -48,6 +48,7 @@ export interface CertificateItem {
   description: string;
   details?: string;
   verified: boolean;
+  link?: string;
 }
 
 export const portfolioData = {
@@ -234,21 +235,32 @@ export const portfolioData = {
   certifications: [
     {
       title: "Junior Web Developer",
-      issuer: "LSP BPPTIK",
+      issuer: "BNSP – LSP BPPTIK",
       category: "Web Development",
+      details: "Sertifikat Kompetensi Nasional BNSP",
       description:
-        "Sertifikasi kompetensi nasional di bidang pengembangan website, sebagai bukti penguasaan standar kompetensi industri dalam pengembangan aplikasi web.",
+        "Sertifikasi kompetensi nasional di bidang pengembangan website berlisensi BNSP, sebagai bukti penguasaan standar kompetensi kerja nasional industri dalam pengembangan aplikasi web.",
       verified: true,
       link: "https://drive.google.com/file/d/1HXgM_LFZYn6eWWRVADnI7EhOm4eOAelh/view?usp=drive_link",
     },
     {
+      title: "Junior Web Developer (VSGA)",
+      issuer: "BPPTIK Cikarang – Kementerian Komunikasi dan Digital",
+      category: "Pelatihan & Pengembangan",
+      details: "Program: Digital Talent Scholarship 2025 | Durasi: 24 Jam Pelatihan",
+      description:
+        "Telah menyelesaikan pelatihan Junior Web Developer yang mencakup implementasi User Interface, pemrograman berbasis teks, grafik dan multimedia, pemrograman terstruktur, pengelolaan fungsi dan file, serta penerapan coding guidelines dan best practices dalam pengembangan website.",
+      verified: true,
+    },
+    {
       title: "Junior Web Development",
-      issuer: "LSP IIB Darmajaya",
+      issuer: "LSP IIB Darmajaya (BNSP)",
       category: "Web Development",
+      details: "Sertifikat Kompetensi LSP Terlisensi BNSP",
       description:
         "Sertifikasi kompetensi di bidang pengembangan website, mencakup implementasi user interface, penggunaan bahasa pemrograman, penyusunan fungsi, penulisan kode sesuai best practices, serta penggunaan library atau komponen.",
       verified: true,
-      link: "https://drive.google.com/file/d/1zA60OUWUB8uuiQECDdNdWyavvlc1O4fY/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1V0uACKJkBI5Aat-694Wx2GOCc1ur1boY/view?usp=drive_link",
     },
     {
       title: "Darmajaya English Proficiency Test",
