@@ -239,6 +239,7 @@ export const portfolioData = {
       description:
         "Sertifikasi kompetensi nasional di bidang pengembangan website, sebagai bukti penguasaan standar kompetensi industri dalam pengembangan aplikasi web.",
       verified: true,
+      link: "https://drive.google.com/file/d/1HXgM_LFZYn6eWWRVADnI7EhOm4eOAelh/view?usp=drive_link",
     },
     {
       title: "Junior Web Development",
@@ -247,6 +248,7 @@ export const portfolioData = {
       description:
         "Sertifikasi kompetensi di bidang pengembangan website, mencakup implementasi user interface, penggunaan bahasa pemrograman, penyusunan fungsi, penulisan kode sesuai best practices, serta penggunaan library atau komponen.",
       verified: true,
+      link: "https://drive.google.com/file/d/1zA60OUWUB8uuiQECDdNdWyavvlc1O4fY/view?usp=drive_link",
     },
     {
       title: "Darmajaya English Proficiency Test",
@@ -256,6 +258,7 @@ export const portfolioData = {
       description:
         "Memperoleh skor keseluruhan 470 melalui uji kompetensi terstandarisasi mencakup Listening Comprehension, Structure & Written Expression, dan Reading Comprehension.",
       verified: true,
+      link: "https://drive.google.com/file/d/1Wk5BohXigwdfMKtukhVqRh-F1UGJmxL1/view?usp=drive_link",
     },
     {
       title: "Sertifikat Hak Kekayaan Intelektual (HKI) Ciptaan",
@@ -265,6 +268,7 @@ export const portfolioData = {
       description:
         "Surat Pencatatan Ciptaan Jenis Program Komputer resmi atas karya 'Sistem Prediksi Waktu Tanam Padi Menggunakan Algoritma C4.5 Berbasis Website'.",
       verified: true,
+      link: "https://drive.google.com/file/d/1-eQnaLR1LppUlyNmloyDqqJM0nLYrVlf/view?usp=drive_link",
     },
   ],
 };

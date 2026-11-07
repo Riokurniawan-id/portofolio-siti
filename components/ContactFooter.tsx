@@ -47,7 +47,7 @@ export default function ContactFooter() {
             </p>
           </div>
           <a
-            href="mailto:sitinurhasanah.ti@gmail.com"
+            href="mailto:sitinurr.741@gmail.com"
             className="shrink-0 px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-teal-600 hover:bg-teal-700 text-white transition-colors"
           >
             Hubungi Langsung
@@ -68,11 +68,6 @@ export default function ContactFooter() {
               <Mail className="w-4 h-4 text-teal-400 shrink-0" />
               <span>sitinurr.741@gmail.com</span>
             </div>
-
-            <p className="text-xs text-slate-400 leading-relaxed pt-2">
-              Terbuka untuk posisi Pranata Komputer, Pengembang Web, Pengolahan
-              Data, atau Administrasi Digital.
-            </p>
           </div>
 
           <div className="md:col-span-7">
@@ -143,7 +138,6 @@ export default function ContactFooter() {
           <div>
             © {new Date().getFullYear()} {personal.name}, S.Kom.
           </div>
-          <div>Dibuat dengan cinta ❤️</div>
         </div>
       </div>
     </footer>
